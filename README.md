@@ -1,1 +1,1 @@
-# Online-Medical-Stores
+# Online-Medical-Store project
